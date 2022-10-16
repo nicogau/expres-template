@@ -1,0 +1,9 @@
+{
+  "development": {
+    "appPort": 8000
+  },
+  "production": {
+    "appPort": 2000
+  }
+
+}

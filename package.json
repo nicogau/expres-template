@@ -1,0 +1,15 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "test expressjs",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=development node .",
+    "build": "NODE_ENV=production node ."
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
